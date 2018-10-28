@@ -1,0 +1,7 @@
+dotnet nuget push FareHarborService.1.0.0.nupkg -k db88c55c-5721-4bcb-bf7b-5fc9a76806ee -s http://localnuget.geekyind.com/nuget
+dotnet nuget push FareHarborService.1.0.0.symbols.nupkg -k db88c55c-5721-4bcb-bf7b-5fc9a76806ee -s http://localnuget.geekyind.com/nuget
+
+
+dotnet nuget push Travel.Models.1.0.0.nupkg -k db88c55c-5721-4bcb-bf7b-5fc9a76806ee -s http://localnuget.geekyind.com/nuget
+
+dotnet nuget push TravelMinded.Service.1.0.0.nupkg -k db88c55c-5721-4bcb-bf7b-5fc9a76806ee -s http://localnuget.geekyind.com/nuget
